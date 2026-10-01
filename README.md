@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20NO%20PERFIL&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=brenobertes&label=VISITAS%20NO%20PERFIL&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
 
 </div>
 
