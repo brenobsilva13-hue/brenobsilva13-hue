@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Breno Bertes
+Breno Bertes
 
-💻 **Estudante de Desenvolvimento Web**
+💻 **Estudante de Desenvolvimento de sistemas**
 🚀 Aprendendo a criar sites e transformar ideias em projetos reais.
 
 ---
